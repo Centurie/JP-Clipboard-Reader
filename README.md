@@ -6,6 +6,6 @@ Watch videos on how to use ShareX and enable copy to clipboard. (Not sponsored, 
 Normally, you extract it and open the browser extension page, then go to developer mode and load it there. Nothing more.
 (Because the program is not readily available as an extension itself, you can download it and use it within a minute)
 
-
-OUTLOOK:
+OUTLOOK as provided.
+Make sure to reload your webpage after setting up the extension.
 <img width="391" height="682" alt="image" src="https://github.com/user-attachments/assets/eae26751-c0c5-4c37-814c-2212006814f5" />
